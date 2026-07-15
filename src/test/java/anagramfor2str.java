@@ -23,7 +23,7 @@ public class anagramfor2str {
 			 b=new String(chb);
 			 if(a.equals(b))
 			 {
-				 System.out.print("Anagram");
+				 System.out.print("Anagram.");
 			 }else
 			 {
 				 System.out.print("not anagram...");

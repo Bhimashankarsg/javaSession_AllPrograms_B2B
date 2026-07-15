@@ -26,7 +26,7 @@ public class anagramfor2str {
 				 System.out.print("Anagram");
 			 }else
 			 {
-				 System.out.print("not anagram");
+				 System.out.print("not anagram...");
 			 }
 			 
 		 }
